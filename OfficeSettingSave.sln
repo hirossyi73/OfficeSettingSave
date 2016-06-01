@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeSettingSave", "OfficeSettingSave\OfficeSettingSave.csproj", "{B87F9C87-BF72-4D86-9574-732A514B4111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeSettingSaveWeb", "OfficeSettingSaveWeb\OfficeSettingSaveWeb.csproj", "{4F8AAD10-388F-4A0E-A91A-16A06399B4F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87F9C87-BF72-4D86-9574-732A514B4111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87F9C87-BF72-4D86-9574-732A514B4111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87F9C87-BF72-4D86-9574-732A514B4111}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B87F9C87-BF72-4D86-9574-732A514B4111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87F9C87-BF72-4D86-9574-732A514B4111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87F9C87-BF72-4D86-9574-732A514B4111}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4F8AAD10-388F-4A0E-A91A-16A06399B4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8AAD10-388F-4A0E-A91A-16A06399B4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8AAD10-388F-4A0E-A91A-16A06399B4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8AAD10-388F-4A0E-A91A-16A06399B4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
